@@ -1,0 +1,25 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2012                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      binary;
+    class       scalarField;
+    arch        "LSB;label=32;scalar=64";
+    location    "0.0025/lagrangian/sprayCloud";
+    object      tMom;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+
+14
+(”Ÿ
+WË>gVÖãÍ>óÒ˜¾½>òöFÙ!Í>”ƒxHr½>ËÝq¨Ç>v61HÔ>‹bõµ
+‡Î>•@ˆò Î>`¸ã ™Ô>TY&a¤Í>±µª/Å>M±4o¢Ç>XV\œÌ>)
+
+// ************************************************************************* //

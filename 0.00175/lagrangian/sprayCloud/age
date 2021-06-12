@@ -1,0 +1,23 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2012                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      binary;
+    class       scalarField;
+    arch        "LSB;label=32;scalar=64";
+    location    "0.00175/lagrangian/sprayCloud";
+    object      age;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+
+69
+(ÙzÃåEu[?åaRDZ?Ó$íZ?kÃZ7“Y?+ûKèÂBY?©ª~ã1{X?-“:*«ÌW?ÉIìoœËW?Ò°y¾W?Ýz®rW?ßŒ@~ckW?C²Ü=!XW?KÐdõSW?O„¢0¨èV?š/u¢ÃV?¥o%^;·V?Aüù~U8V?±3Ò~'V?{V&V?©¹ïe¢ºU?·ªdIð¢U?k¨õuìEU?å¢%ËAU?#ÀÞ+ 1U?%±ð®bÆT?}æUÏ½T?iƒPŠ“œT?½>½Ý–ŠT?9‰Þ^nT?Ç%ƒ¶T?Ñv~‹«ðS?™T/¤Y´S?õ¾2®S?d&—«¢S?™¥ ÿ·S?ùËXKyS?'£˜WRS?÷õ¢ŠPS?{\ŠÙDES?!û‘;,AS?ÇKÅœ‹&S?uïvS?ëI“<øR?zFÜ+R?‰5ÓþQ?ˆ)<!ÙQ?DÏå™SÒQ?ÍÚwÅ´Q?"÷JÈÝ°Q?¡;‡›<Q?ýd–-‘9Q?"lÎòŽ8Q?Š– %Q?V>}[Q?„<3±9‘P?Á*²ÇP?ú *¡~P?#3Û¤Ã4P?ÕÞ‰Ø'P?·l8FF‘O?°<÷~†O?ÝL?LÞN?ú´ï×¦ÚN?j¹’ky)N?ç?"ÔéÚM?²Ò°ÐM?N^ºÚ{M?ßŠ¹*XM?øP˜%M8M?)
+
+// ************************************************************************* //
